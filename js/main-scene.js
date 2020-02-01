@@ -2,7 +2,7 @@ import Player from "./player.js";
 import createRotatingPlatform from "./create-rotating-platform.js";
 import createRotatingGear1 from "./create-rotating-gear.js";
 import createRotatingGear2 from "./create-rotating-gear2.js";
-import createJumpingPlatform from "./create-jumping-platform.js";
+import createJumpingPlatform from "./create-jumping-platform.JS";
 import Chiavi from "./Chiavi.js";
 import NemicoVolante from "./FlyingEnemy.js"
 import NemicoTerrestre from "./WalkingEnemy.js"
