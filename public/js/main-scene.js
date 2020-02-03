@@ -1059,7 +1059,7 @@ export class Intermezzo extends Phaser.Scene {
   constructor () {super({key: 'Intermezzo'})};
 	
   preload() {
-    this.load.tilemapTiledJSON("map4", "./assets/tilemaps/intermezzo.json");
+    this.load.tilemapTiledJSON("map4", "./assets/tilemaps/Intermezzo.json");
     this.load.image(
       "kenney-tileset-64px-extruded",
       "./assets/tilesets/kenney-tileset-64px-extruded.png"
