@@ -957,7 +957,7 @@ export class Finale extends Phaser.Scene {
   constructor () {super({key: 'Finale'})};
 	
   preload() {
-    this.load.tilemapTiledJSON("map3", "./assets/tilemaps/finale.json");
+    this.load.tilemapTiledJSON("map3", "./assets/tilemaps/Finale.json");
     this.load.image(
       "kenney-tileset-64px-extruded",
       "./assets/tilesets/kenney-tileset-64px-extruded.png"
