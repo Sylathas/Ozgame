@@ -8,6 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "phaser": "3.12.0-beta2",
     "phaser-matter-collision-plugin": "0.10.0"
   },
