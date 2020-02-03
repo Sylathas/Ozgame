@@ -4,7 +4,7 @@
   "description": "Videogame developed for Computer Graphics Laboratory at Bachelor ofScience in Communication Design at Politecnico di Milano",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
     "phaser": "3.12.0-beta2",
     "phaser-matter-collision-plugin": "0.10.0"
   },
