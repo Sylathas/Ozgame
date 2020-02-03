@@ -729,7 +729,7 @@ export class MainScene2 extends Phaser.Scene {
   constructor () {super({key: 'MainScene2'})};
 	
   preload() {
-	this.load.image('Gear', './assets/images/Ingranaggio.png');  
+	this.load.image('Gear', './assets/images/ingranaggio.png');  
 	this.load.image("springg", "./assets/images/springg.png");
     this.load.tilemapTiledJSON("map2", "./assets/tilemaps/livello_2.json");
     this.load.image(
